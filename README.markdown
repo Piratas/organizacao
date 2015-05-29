@@ -1,10 +1,10 @@
-Organização
+Organização Pirata
 ==
 
-Aqui no NotaBug.Org temos tudo o que tem no Github **menos** a edição de arquivos via web.
+Para acrescentar arquivos é necessário aprender a usar [git](http://git-scm.org). Existem vários tutoriais na [ajuda do Gihub](https://help.github.com).
 
-Para acrescentar arquivos é necessário aprender a usar [git](http://git-scm.org).
+Para editar e criar novas issues (problemas) é só abrir [página de problemas](https://notabug.org/piratas/Organizacao/issues) ao lado.
 
-Existem vátios tutoriais na [ajuda do Gihub](https://help.github.com).
+Ideia kopiada do [Garoa Hacker Clube](https://github.com/garoa/hackerclube) e [Hackerspace Matehackers](https://github.com/matehackers/99problems).
 
-Este repositório é mentido pelo grupo [pirata.xyz](http://pirata.xyz).
+Este repositório é mentido pelo grupo [piratas.xyz](http://piratas.xyz).
